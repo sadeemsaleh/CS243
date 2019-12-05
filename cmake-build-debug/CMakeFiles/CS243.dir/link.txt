@@ -1,0 +1,1 @@
+/usr/local/bin/g++-9   -std=c++11 -fopenmp -std=c++11 -fopenacc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CS243.dir/main.cpp.o  -o CS243 /usr/local/lib/libtbb.dylib 
